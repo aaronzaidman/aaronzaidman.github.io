@@ -4,7 +4,8 @@
 }
 
 h1  {
-  font-size: 64px;
+  font-size: 25px
+  border-bottom: 1px solid #999;
 }
 
 h2  {
