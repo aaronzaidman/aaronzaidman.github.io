@@ -5,12 +5,12 @@
 }
 
 .contact {
-  text-alight: left;
+  text-align: left;
 }
 
 h1 {
   font-size: 36px;
-  border-bottom: 1px solid #999;
+  margin-bottom: -25px;
 }
 
 h2 {
