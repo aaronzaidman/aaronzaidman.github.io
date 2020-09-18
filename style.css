@@ -13,12 +13,13 @@ h1 {
 h2 {
   font-size: 16px;
   text-align: right;
-  margin-bottom: -10px
+  margin-bottom: -10px;
   
 }
 
 .posdates {
    float:right;
+  margin-bottom:-10px;
 }
 
 
