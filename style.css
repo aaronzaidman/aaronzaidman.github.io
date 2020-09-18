@@ -19,6 +19,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  text-align: center;
   
 }
 
@@ -26,7 +27,7 @@ h4 {
   font-size: 16px;
   text-decoration: underline;
   margin-bottom: -20px;
-  
+  text-align: left;
 }
 
 h5 {
