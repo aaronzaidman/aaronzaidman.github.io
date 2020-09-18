@@ -1,7 +1,7 @@
 
 .header {
   border-bottom: 1px solid #999;
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 
 h2 {
   font-size: 16px;
-  text-alight: left;
+  float: right;
   margin-bottom: -6px;
 }
 
