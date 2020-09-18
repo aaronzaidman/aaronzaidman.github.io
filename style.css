@@ -16,6 +16,11 @@ h2 {
   
 }
 
+.posdates {
+   display: inline-grid;
+}
+
+
 #location {
     text-align: left;
   
