@@ -1,10 +1,13 @@
-#header {
+
+.header {
   border-bottom: 1px solid #999;
-  text-align: center;
+  margin: auto;
 }
-#contact {
+
+.contact {
   text-alight: left;
 }
+
 h1 {
   font-size: 36px;
   border-bottom: 1px solid #999;
