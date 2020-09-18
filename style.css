@@ -13,8 +13,23 @@ h1 {
 h2 {
   font-size: 16px;
   text-align: right;
-  margin-bottom: -10px;
+  margin-bottom: -15px;
   
+}
+
+h3 {
+  font-size: 16px;
+  
+}
+
+h4 {
+  font-size: 14px;
+  
+}
+
+h5 {
+   font-size: 12px;
+  margin-bottom: -20px
 }
 
 #location {
@@ -22,12 +37,4 @@ h2 {
   
   {
 
-.posdates {
-   text-align: right;
-  margin-bottom:-10px;
-}
-
-.jobdes {
-  
-  {
 
