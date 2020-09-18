@@ -1,13 +1,15 @@
-#header
-{border-bottom: 1px solid #999;
+#header {
+  border-bottom: 1px solid #999;
 
 }
-
-h1  {
-  font-size: 25px
+#contact{
+  text-alight: left;
+}
+h1 {
+  font-size: 36px;
   border-bottom: 1px solid #999;
 }
 
-h2  {
+h2 {
   font-size: 20px;
 }
