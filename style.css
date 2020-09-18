@@ -4,10 +4,6 @@
   text-align: center;
 }
 
-.contact {
-  text-align: left;
-}
-
 h1 {
   font-size: 36px;
   margin-bottom: -25px;
@@ -15,6 +11,7 @@ h1 {
 
 h2 {
   font-size: 20px;
+  text-alight: left;
 }
 #location {
     text-align: left;
