@@ -2,7 +2,7 @@
   border-bottom: 1px solid #999;
   text-align: center;
 }
-#contact{
+#contact {
   text-alight: left;
 }
 h1 {
@@ -13,3 +13,7 @@ h1 {
 h2 {
   font-size: 20px;
 }
+#location {
+    text-align: left;
+  
+  {
