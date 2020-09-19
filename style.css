@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 36px;
   text-align: right;
   margin-bottom: -15px;
   
@@ -20,13 +20,13 @@ h2 {
 }
 
 h3 {
-  font-size: 36px;
+  font-size: 24px;
   text-align: center;
   
 }
 
 h4 {
-  font-size: 28px;
+  font-size: 20px;
   text-align: left;
 }
 
