@@ -1,28 +1,30 @@
 body {
-background-image: url("https://humornama.com/wp-content/uploads/2020/08/Leonardo-DiCaprio-laughing-meme-template-of-Django-Unchained-1024x1024.jpg");
-background-position: left top;
-background-attachment: fixed;
-background-color: rgba(0, 128, 0, 0.8);
-
-border: 4px dotted black;
+background-color: rgba(161, 144, 158, 0.5);
 padding: 15px;
 margin: 20px;
+font-family: calibri, Arial, sans-serif;
 }
 
 .resume {
-background-color:rgba(0, 128, 0, 0.90);
-border-radius: 50px;
+background-color:rgba(241, 243, 107, 0.50);
+border-radius: 25px;
+margin: 10px;
+padding: 10px 50px 10px 50px;
+
 }
 
 
-.header-contact {
 
+.header-contact {
+		text-align: right;
+		float: right;
+        
   
 }
 
 h1 {
   font-size: 64px;
-  margin-bottom: ;
+  text-align: center;
   
  
 }
@@ -39,13 +41,15 @@ h3 {
   font-size: 24px;
   text-align: ;
   margin-bottom: -20px;
+  text-decoration: underline;
   
 }
 
 h4 {
   font-size: 20px;
   text-align: left;
-  margin-bottom: -25px
+  margin-bottom: -25px;
+  font-style: italic;
 }
 
 h5 {
@@ -54,13 +58,23 @@ h5 {
   text-indent: 20px;
 }
 
+h6 {
+font-size: 18px;
+margin-bottom: -40px;
+}
+
+
+
 ul{
 margin-top: 25px;
+font-size: 18px;
+
 }
 
 p {
 font-size: 20px;
 text-align: center;
+font-style: italic;
 
 }
 
