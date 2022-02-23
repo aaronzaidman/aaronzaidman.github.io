@@ -1,2 +1,2 @@
-# My online resume, updated in July 2020
-# aaronzaidman.github.io
+[My Online Resume](https://aaronzaidman.github.io/)
+#  Updated July 2020
